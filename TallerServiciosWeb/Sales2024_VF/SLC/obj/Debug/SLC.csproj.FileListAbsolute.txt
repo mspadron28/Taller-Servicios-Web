@@ -1,0 +1,27 @@
+C:\Users\sebas\source\repos\Sales2024_VF\SLC\bin\Debug\SLC.dll
+C:\Users\sebas\source\repos\Sales2024_VF\SLC\bin\Debug\SLC.pdb
+C:\Users\sebas\source\repos\Sales2024_VF\SLC\bin\Debug\Entities.dll
+C:\Users\sebas\source\repos\Sales2024_VF\SLC\bin\Debug\Entities.pdb
+C:\Users\sebas\source\repos\Sales2024_VF\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Sales2024_VF\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Sales2024_VF\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\sebas\source\repos\Sales2024_VF\SLC\obj\Debug\SLC.dll
+C:\Users\sebas\source\repos\Sales2024_VF\SLC\obj\Debug\SLC.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\SLC\bin\Debug\SLC.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\SLC\bin\Debug\SLC.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\SLC\bin\Debug\Entities.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\SLC\bin\Debug\Entities.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\SLC\obj\Debug\SLC.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\SLC\obj\Debug\SLC.pdb
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\SLC\bin\Debug\SLC.dll
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\SLC\bin\Debug\SLC.pdb
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\SLC\bin\Debug\Entities.dll
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\SLC\bin\Debug\Entities.pdb
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\SLC\obj\Debug\SLC.csproj.AssemblyReference.cache
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\SLC\obj\Debug\SLC.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\SLC\obj\Debug\SLC.csproj.Up2Date
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\SLC\obj\Debug\SLC.dll
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\SLC\obj\Debug\SLC.pdb

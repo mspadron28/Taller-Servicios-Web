@@ -1,0 +1,17 @@
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\Test.exe.config
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\Test.exe
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\Test.pdb
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\DAL.dll
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\Entities.dll
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\EntityFramework.dll
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\DAL.pdb
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\DAL.dll.config
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\Entities.pdb
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\EntityFramework.xml
+C:\Users\sebas\source\repos\Sales2024_VF\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebas\source\repos\Sales2024_VF\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Sales2024_VF\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Sales2024_VF\Test\obj\Debug\Test.csproj.Up2Date
+C:\Users\sebas\source\repos\Sales2024_VF\Test\obj\Debug\Test.exe
+C:\Users\sebas\source\repos\Sales2024_VF\Test\obj\Debug\Test.pdb

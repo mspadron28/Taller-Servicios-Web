@@ -1,0 +1,42 @@
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\bin\Debug\DAL.dll.config
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\bin\Debug\DAL.dll
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\bin\Debug\DAL.pdb
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\bin\Debug\Entities.dll
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\bin\Debug\EntityFramework.dll
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\bin\Debug\Entities.pdb
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\bin\Debug\EntityFramework.xml
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\obj\Debug\DAL.dll
+C:\Users\sebas\source\repos\Sales2024_VF\DAL\obj\Debug\DAL.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\bin\Debug\DAL.dll.config
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\bin\Debug\DAL.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\bin\Debug\DAL.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\bin\Debug\Entities.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\bin\Debug\Entities.pdb
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\obj\Debug\DAL.dll
+C:\Users\Vivobook Oled\Desktop\Universidad\Septimo Semestre\Distribuidas\Unidad 1\Sales2024_VF\DAL\obj\Debug\DAL.pdb
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\bin\Debug\DAL.dll.config
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\bin\Debug\DAL.dll
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\bin\Debug\DAL.pdb
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\bin\Debug\Entities.dll
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\bin\Debug\EntityFramework.dll
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\bin\Debug\Entities.pdb
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\bin\Debug\EntityFramework.xml
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\obj\Debug\DAL.dll
+C:\Users\William\Documents\UniversidadNP\Aplicaciones Distribuidas\Sales2024_VF\Sales2024_VF\DAL\obj\Debug\DAL.pdb
